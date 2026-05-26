@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark.png">
-    <img width="100" src="assets/logo-light.png" alt="M-Tweaker">
+    <img width="100" src="assets/logo.png" alt="M-Tweaker">
   </picture>
   <h1 align="center">M-TWEAKER</h1>
   <p align="center"><strong>PC Optimization Hub</strong></p>
