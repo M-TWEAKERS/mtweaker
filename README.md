@@ -1,6 +1,6 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark.png">
+    <source media="(prefers-color-scheme: dark)" srcset="logo.png">
     <img width="100" src="logo.png" alt="M-Tweaker">
   </picture>
   <h1 align="center">M-TWEAKER</h1>
